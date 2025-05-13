@@ -35,7 +35,7 @@ This research project explores auditory learning environments for children with 
 ### Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/hearing_impaired_fmri_ai.git
+git clone https://github.com/aysha2016/hearing_impaired_fmri_ai.git
 cd hearing_impaired_fmri_ai
 ```
 
